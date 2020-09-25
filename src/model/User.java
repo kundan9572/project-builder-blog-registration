@@ -25,7 +25,6 @@ public class User {
 		this.date = date;
 	}
 	public User(String email, String password, LocalDateTime date) {
-		super();
 		this.email = email;
 		this.password = password;
 		this.date = date;
